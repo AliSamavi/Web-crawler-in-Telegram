@@ -4,11 +4,18 @@ Telegram bot whose job is to get product prices from websites
 
 ## dependencies
 
-beautifulsoup4 \n
-pandas \n
-peewee \n
-Pyrogram \n
-pyromod==1.5 \n
-requests \n
-selenium \n
-xmltodict \n
+beautifulsoup4
+<br>
+pandas
+<br>
+peewee
+<br>
+Pyrogram
+<br>
+pyromod==1.5
+<br>
+requests
+<br>
+selenium
+<br>
+xmltodict
