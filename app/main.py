@@ -4,8 +4,8 @@ from pyrogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineK
 from command import Control
 
 API_ID = 10029176
-API_HASH = "07dd5c0a364963352c6989abfa8da33a"
-BOT_TOKEN = "6223832446:AAERSXFndhALRNmSqymwyLQtWfP4oWAXqic"
+API_HASH = "???"
+BOT_TOKEN = "???"
 
 app = Client("robot", API_ID, API_HASH, bot_token=BOT_TOKEN)
 
