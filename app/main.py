@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton
 from command import Control
 
-API_ID = 10029176
+API_ID = ???
 API_HASH = "???"
 BOT_TOKEN = "???"
 
